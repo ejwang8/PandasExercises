@@ -1,2 +1,2 @@
 # freeCodeCamp_exercise1
-y personal solutions to freeCodeCamp Pandas exercises
+My personal solutions to freeCodeCamp Pandas exercises
