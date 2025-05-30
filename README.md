@@ -1,6 +1,6 @@
 # FreeCodeCamp Practice
 
-My personal solutions and notes from the [freeCodeCamp Pandas Real-Life Example](https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example) course.
+My personal solutions and notes from the [freeCodeCamp](https://www.freecodecamp.org/) course.
 
 ## Exercises
 
